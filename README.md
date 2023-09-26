@@ -1,2 +1,2 @@
-# sd
-tareas de sistemas distribuidos
+# Sistemas Distribuidos
+Tarea 1 de sistemas distribuidos
